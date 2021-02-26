@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975668044331",
+    "project_id": "verify-portal",
+    "storage_bucket": "verify-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975668044331:android:ccb755c4157375c601406e",
+        "android_client_info": {
+          "package_name": "com.example.verifyportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975668044331-rpnlqios5ievvn2h65p3nm463naej8k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwPkj1DWOhny9D0q4gCFPR1CM7DPZXbwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975668044331-rpnlqios5ievvn2h65p3nm463naej8k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
